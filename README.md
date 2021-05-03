@@ -3,11 +3,11 @@ Computer Vision - Deep Learning Approaches
 
 This repo includes projects:
 
-CMPT-743
-U-net
-PoseNet
-SSD(Single Shot Multiple Boxes Detection)
-PointNet
+-CMPT-743
+-U-net
+-PoseNet
+-SSD(Single Shot Multiple Boxes Detection)
+-PointNet
 
 CMPT 762
 CNN_Matlab
